@@ -1,8 +1,8 @@
-<h1 align="center"> 𝐒𝐏𝐀𝐂𝐄 𝐌𝐃 </h1>
+<h1 align="center"> DarkX Bot</h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/SPACE-MD">
-    <img alt="SPACE-MD docs" height="350" src="https://files.catbox.moe/ia1mgm.jpg">
+    <img alt="SPACE-MD docs" height="350" src="https://files.catbox.moe/b9omrb.jpg">
   </a>
 </p>
     
